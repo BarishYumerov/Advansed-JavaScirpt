@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: right;
+    padding: 5px;
+}
+span{
+    text-decoration: underline;
+}
+.w {
+    width: 400px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.section {
+    border: 2px solid #949494;
+    margin: 10px 0px;
+    padding: 10px;
+}
+.sections {
+    border: 2px solid #949494;
+    padding: 10px;
+    margin-bottom: 10px;
+}
